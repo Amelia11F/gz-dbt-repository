@@ -10,7 +10,7 @@ renamed as (
 
     select orders_id
     ,shipping_fee
-    ,logCost
+    ,logCost AS log_cost
     ,ship_cost
 
 
